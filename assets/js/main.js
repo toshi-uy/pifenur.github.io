@@ -48,15 +48,6 @@
 	});
 	wow.init();
 
-	//====== counter up 
-	var cu = new counterUp({
-		start: 0,
-		duration: 2000,
-		intvalues: true,
-		interval: 100,
-	});
-	cu.start();
-
 
 	// for menu scroll 
 	var pageLink = document.querySelectorAll('.page-scroll');
